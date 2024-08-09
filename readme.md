@@ -4,7 +4,7 @@
 
 A small form factor delta printer designed to be rigid and compact. I created most of the parts myself, but I also modified existing designs in the community. Credit is given below to the models I either used directly or modified. 
 
-Print volume is __mm diameter circle x 120mm in Z. Arm Length is 85mm. Delta Radius is __. 
+Print volume is 75mm diameter circle x 120mm in Z. Arm Length is 85mm. Delta Radius is __. 
 
 Credit to models:     
 https://www.vorondesign.com/ for their designs and the starting point for pretty much all my work.   
