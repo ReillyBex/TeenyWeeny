@@ -1,4 +1,7 @@
 # TeenyWeeny
+
+![alt text](https://github.com/ReillyBex/TeenyWeeny/blob/master/LatestRevRender.jpg?raw=true)
+
 A small form factor delta printer designed to be rigid and compact. I created most of the parts myself, but I also modified existing designs in the community. Credit is given below to the models I either used directly or modified. 
 
 Print volume is __mm diameter circle x 120mm in Z. Arm Length is 85mm. Delta Radius is __. 
