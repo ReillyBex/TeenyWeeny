@@ -1,6 +1,6 @@
 # TeenyWeeny
 
-![alt text](https://github.com/ReillyBex/TeenyWeeny/blob/master/LatestRevRender.jpg?raw=true)
+![Printer Render](https://github.com/ReillyBex/TeenyWeeny/blob/master/LatestRevRender.JPG?raw=true)
 
 A small form factor delta printer designed to be rigid and compact. I created most of the parts myself, but I also modified existing designs in the community. Credit is given below to the models I either used directly or modified. 
 
