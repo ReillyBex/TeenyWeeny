@@ -6,12 +6,13 @@ A small form factor delta printer designed to be rigid and compact. I created mo
 
 Print volume is 75mm diameter circle x 120mm in Z. Arm Length is 85mm. Delta Radius is __. 
 
-Credit to models:     
-https://www.vorondesign.com/ for their designs and the starting point for pretty much all my work.   
-https://github.com/KayosMaker/1515PanelClips for the 1515 panel clips.    
-https://github.com/MasturMynd/Pandoras_Box for the bed support clips and the nema 17 models.    
-https://github.com/zruncho3d/tri-zero for various fasteners, and the pico model.    
-https://github.com/clee/VoronBFI for the base BZI model I modified for use in Teeny Weeny.    
-https://www.printables.com/model/530995-v0-1515-extrusion-slot-cover/files for the 1515 slot covers.    
+Credit to models used in the CAD:  
 https://www.printables.com/model/875189-min_sb01_80 for the effector design.    
-https://www.printables.com/model/857334-min-micro-delta-3d-printer for their work on small deltas and the discord community that helped me refine my design.    
+https://github.com/clee/VoronBFI for the base BZI model I modified for use in Teeny Weeny.   
+
+Shoutout to models and designs used in the build:      
+https://www.vorondesign.com/ for their designs and the starting point for pretty much all my work.      
+https://github.com/KayosMaker/1515PanelClips for the 1515 panel clips.        
+https://www.printables.com/model/857334-min-micro-delta-3d-printer for their work on small deltas and the discord community that helped me refine my design.      
+https://www.printables.com/model/530995-v0-1515-extrusion-slot-cover/files for the 1515 slot covers.        
+ 
