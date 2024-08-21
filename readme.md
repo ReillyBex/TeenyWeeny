@@ -21,7 +21,8 @@ I placed the vertical extrusions into yhe feet first, and then afded the top rin
 
 Credit to models used in the CAD:  
 https://www.printables.com/model/875189-min_sb01_80 for the effector design.    
-https://github.com/clee/VoronBFI for the base BZI model I modified for use in Teeny Weeny.   
+https://github.com/clee/VoronBFI for the base BZI model I modified for use in Teeny Weeny.       
+https://github.com/ApexArray/ApexClips for the Apex Clips used in the carriages.       
 
 Shoutout to models and designs used in the build:      
 https://www.vorondesign.com/ for their designs and the starting point for pretty much all my work.      
