@@ -1,7 +1,6 @@
 ﻿Backups
 CAD/SolidWorks
 CAD/Printer.step
-protoxtruder-model_files
 Electronics Concept.JPG
 TopHat Concept.JPG
 (2mm PowerGrip GT) Timing Belt Pulley PD and OD.pdf
@@ -14,3 +13,4 @@ skeletonized CPAP concept 1.JPG
 skeletonized CPAP concept 2.JPG
 skeletonized CPAP concept 3.JPG
 SLM Effector Concept.JPG
+config/*.zip
