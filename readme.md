@@ -6,7 +6,8 @@ A small form factor delta printer designed to be rigid and compact. I created mo
 
 Print volume is 75mm diameter circle x ~120mm in Z. Arm Length is 85mm. Delta Radius is 38.1mm, Print_Radius is 37mm. Belt tension on the long side of the belt should be about 174Hz to reach spec load at spec length. Example graphs from Input Shaper are included below. Smol delta go brrrrrrrr.          
 
-![Shaper X](https://github.com/ReillyBex/TeenyWeeny/blob/master/shaper_calibrate_x.png?raw=true)        
+![Shaper X](https://github.com/ReillyBex/TeenyWeeny/blob/master/shaper_calibrate_x.png?raw=true)    
+![Shaper Y](https://github.com/ReillyBex/TeenyWeeny/blob/master/shaper_calibrate_y.png?raw=true)
           
        
 Credit to models used in the CAD:  
